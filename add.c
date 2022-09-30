@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main();
 {
   int a,b;
@@ -8,4 +9,5 @@ void main();
   printf("Enter the value of b:\n");
   scanf("%d",&b);
   printf("The sum of given numbers is:\n%d",a+b);
+  getch();
 }
