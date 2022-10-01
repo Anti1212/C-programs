@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main();
+void main()
 {
 clrscr();
 printf("Hello World");
